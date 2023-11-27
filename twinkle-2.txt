@@ -1,0 +1,7 @@
+Candidates:
+('12'),('13')
+
+('12', '13')
+
+Frequent Itemsets:
+('13'),
